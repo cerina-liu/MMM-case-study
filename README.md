@@ -16,53 +16,63 @@ Marketing teams often face questions such as:
 - Are we over-investing in certain channels?
 - How can we reallocate budget to improve ROI?
 
-This project simulates a real-world MMM workflow to answer these questions.
-
 ---
 
 ## Methodology
 
-The analytical flow follows a standard MMM structure:
+A simplified MMM framework is applied:
 
 Spend → Exposure → Adstock → Response Curve → Contribution → ROI
 
 Key steps include:
 
-- Data preparation and channel aggregation  
-- Transformation (adstock and diminishing returns)  
-- Contribution analysis across channels  
-- ROI comparison and efficiency evaluation  
+- Transforming media inputs to reflect carryover effects  
+- Modeling diminishing returns across channels  
+- Estimating contribution and ROI  
+- Translating outputs into business decisions  
+
+---
+
+## Example Outputs
+
+### Channel Contribution
+
+![Contribution](contribution.png)
+
+### ROI by Channel
+
+![ROI](roi.png)
+
+### Response Curve
+
+![Response Curve](curve.png)
 
 ---
 
 ## Key Insights
 
-- Certain high-spend channels show diminishing returns, indicating potential over-investment  
+- High-spend channels show diminishing returns, indicating potential over-investment  
 - Some lower-spend channels demonstrate stronger marginal ROI  
-- Channel performance varies significantly depending on response curve shape  
+- Performance varies significantly depending on response curve shape  
 
 ---
 
 ## Business Recommendations
 
 - Reallocate budget from saturated channels to high-efficiency channels  
-- Optimize spend distribution based on marginal ROI rather than historical allocation  
-- Use MMM outputs to guide scenario planning and future investment strategy  
+- Optimize spend based on marginal ROI rather than historical allocation  
+- Use MMM outputs to guide scenario planning  
 
 ---
 
-## Project Scope
+## Data Disclaimer
 
-This project focuses on:
-
-- Marketing performance measurement  
-- Channel contribution analysis  
-- ROI-based decision support  
-
-(Note: Data is simulated / anonymized for portfolio purposes)
+- Data used in this project is simulated  
+- No proprietary or client information is included  
+- Implementation details are simplified for demonstration purposes  
 
 ---
 
 ## Status
 
-In progress
+Completed (Portfolio Version)
