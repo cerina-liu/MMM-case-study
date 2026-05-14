@@ -37,7 +37,7 @@ Key steps include:
 
 ### Channel Contribution
 
-<img width="704" height="388" alt="channel contribution" src="https://github.com/user-attachments/assets/0a756151-bef8-48f2-b6f9-aca12b9ef4f7" />
+<img width="698" height="355" alt="channel contribution" src="https://github.com/user-attachments/assets/0b8b770a-b69b-4a9c-a6ab-eeb39908584e" />
 
 
 ### ROI by Channel
